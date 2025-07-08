@@ -183,14 +183,10 @@ Once the player has succeeded in using fire in all the 4 angelic statues, the pa
 - [Unreal Forums - Splie components through C++](https://forums.unrealengine.com/t/spline-components-through-c/293817/2)
 - [Unreal Forums - How to set game instance class in C++?](https://forums.unrealengine.com/t/howto-set-gameinstance-class-in-c/357414)
 - [Unreal Forums - No elegant representation for a manager class?](https://forums.unrealengine.com/t/no-elegant-representation-for-a-manager-class/1589871/4)
-
-https://www.reddit.com/r/unrealengine/comments/dhizeu/how_to_play_music_or_an_audio_cue_between_level/
-https://unreal-garden.com/tutorials/using-same-function-for-many-ubuttons/#b-bind-to-the-slate-button-widget
-https://unreal-garden.com/docs/uproperty/#editanywhere
-https://dev.epicgames.com/documentation/en-us/unreal-engine/game-mode-and-game-state-in-unreal-engine?application_version=5.4
-https://forums.unrealengine.com/t/how-to-use-the-onaudiofinished-event-in-c/378623
-https://forums.unrealengine.com/t/disable-enable-light-at-certain-places/139474/2
-
+- [Unreal Garden - UPROPERTY specifiers](https://unreal-garden.com/docs/uproperty/)
+- [Unreal Dev Community - Game Mode and Game State in Unreal Engine](https://dev.epicgames.com/documentation/en-us/unreal-engine/game-mode-and-game-state-in-unreal-engine?application_version=5.4)
+- [Unreal Forums - How to use the OnAudioFinished event in C++?](https://forums.unrealengine.com/t/how-to-use-the-onaudiofinished-event-in-c/378623)
+- [Unreal Forums - Disable light at certain places](https://forums.unrealengine.com/t/disable-enable-light-at-certain-places/139474/2)
 - [Unreal Engine Docs - Chaos Fields User Guide](https://dev.epicgames.com/documentation/en-us/unreal-engine/chaos-fields-user-guide-in-unreal-engine)
 - [Reddit - What is the different between a level instance and a packed level actor?](https://www.reddit.com/r/unrealengine/comments/xlj2ri/what_is_the_difference_between_a_level_instance/)
 - [Unreal Forums - AI Controller not attaching to a spawned character in UE5](https://forums.unrealengine.com/t/ai-controller-not-attaching-to-a-spawned-character-in-ue-5/2161581/3)
