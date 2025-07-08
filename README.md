@@ -90,13 +90,13 @@ As we can appreciate in the picture, the map contains 3 main areas, which are:
 
 Although the order in which the player rescues the 3 souls in the level is irrelevant, in the upcoming paragraphs we'll include a walkthrough to quickly complete the game. This will mostly match what you can see in the gameplay video attached in the ["Live preview" section](#-live-preview) of this page.
 
-### Step 1: The burned village
+#### 🏡 Step 1: The burned village
 
 The lost soul hidden in the village it's pretty easy to find: it's located in the small house at the front of the well. All the player has to do to reach it is to open the door, and he'll see Minoru there, sitting on the bed.
 
 ![Minoru's location](./images/minoru.JPG)
 
-### Step 2: The forest
+#### 🌲 Step 2: The forest
 
 The second lost soul, Leila, is located in the graveyard at the right of the church, which lies in the forest.
 
@@ -104,7 +104,7 @@ The second lost soul, Leila, is located in the graveyard at the right of the chu
 
 There's no obstacles in the way, so she can be reached without interacting without any door or obstacle. However, with all the trees it's possible the player may not notice her at first, so Hinomaru' soul detection ability will be particularly helpful to spot her.
 
-### Step 3: The castle
+#### 🏰 Step 3: The castle
 
 The last of the souls in the level, the king, can be found in the throne room inside the castle.
 
