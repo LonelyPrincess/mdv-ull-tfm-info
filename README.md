@@ -6,8 +6,8 @@ This repository contains information on a prototype developed with Unreal Engine
 
 The prototype was built using C++ classes together with Blueprints. Most logic for all the in-game actors or components are written in C++, whereas their Blueprint counterparts are used to easily customize the actor properties and assign a proper location for their subcomponents in the viewport.
 
-> [!NOTE]  
-> TODO: Add link to the TFM document for more details. 
+> [!NOTE]
+> TODO: Add link to the TFM document for more details.
 
 ## Game overview
 
@@ -41,25 +41,51 @@ The following controls have be defined for this game:
 | Draw | 🖱️ | Left click |
 | Look / Rotate camera | 🖱️ | Move |
 
-> [!WARNING]  
+> [!WARNING]
 > No playable demo is available for the time being. Sorry for the inconvenience!
 
 ## Prototype breakdown
 
-> [!IMPORTANT]  
+In this section we'll briefly describe the main features of the developed prototype, which consists of a single playable level where the **goal is to save all 3 lost souls available on the map**.
+
+> [!IMPORTANT]
 > This section is a work in progress.
-
-### 🗺️ World overview
-
-TODO: Add description of the level
 
 ### 🚶‍♀️ Main character
 
-TODO: Describe character abilities
+During the game, players will be able to control Miko. Besides the basic movement actions (like walking or jumping), she also has the ability to cast magic when interacting when certain elements of the scene.
+
+The core mechanic of the game lies in her skill to use cards of different types, which will yield different effects depending on what she's interacting with. **Activating a card to successfully cast a spell requires that the player draws a specific shape in it**, which is where the usage of the japanese language comes into play.
+
+Each card available in Miko' skill set represents one symbol in any of the 3 japanese alphabets: _hiragana_, _katanana_ and _kanji_. The first two alfabets will only be relevant when interacting with the lost souls the player needs to rescue to complete the game. The _kanji_, however, will also be key to solve puzzles and proceed through the game.
+
+To share some specific examples, using a fire card will allow the player to lit up torches or burn certain obstacles. Similarly, wind cards can be used to break walls and water cards can dispel fire.
+
+In the following video we can see this mechanic in action, with Miko using a fire card to lit a torch. As we can see here, activating it requires that the player successfully writes the _kanji_ that means "fire".
+
+![Miko using a fire card](./images/drawing-mechanic-preview.gif)
 
 ### 👾 Autonomous agent
 
 TODO: Describe agent behaviour
+
+### 🗺️ Game level overview
+
+The game prototype consists of a single playable level where the **goal is to save all 3 lost souls available on the map**.
+
+The following screenshot illustrates the world map of said level, seen from above:
+
+![Level map seen from above](./images/level-map-from-above-with-marked-areas.JPG)
+
+As we can appreciate here, the map contains 3 main areas, which are:
+
+1. The burned village
+2. The forest around the church
+3. The castle
+
+There's one lost soul to be found in each of these areas, as well as some collectible items all around the scene. The latter are completely optional: collectibles only grant extra points to the final score the user will get at the end, but it's not necessary to find any of them in order to complete the level.
+
+TODO: Add description of the level
 
 ## Additional project information
 
