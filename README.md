@@ -4,6 +4,11 @@ This repository contains information on a prototype developed with Unreal Engine
 
 **The aim of this project has been the development of a prototype for a videogame that, as part of its core mechanics, includes the usage of the japanese language.** Writing specific japanese characters will be required to interact with certain elements of the level and make progress in the game. In this way, the game intends to aid people interested in learning the language to memorize these symbols in a more enjoyable way.
 
+The prototype was built using C++ classes together with Blueprints. Most logic for all the in-game actors or components are written in C++, whereas their Blueprint counterparts are used to easily customize the actor properties and assign a proper location for their subcomponents in the viewport.
+
+> [!NOTE]  
+> TODO: Add link to the TFM document for more details. 
+
 ## Game overview
 
 ### 📖 Synopsis
@@ -14,7 +19,13 @@ Miko has the ability to cast spells by writing in her magic cards, and she'll be
 
 Taking upon the mission of saving those poor souls, Miko travels around the world to find and save as many as she can. Her loyal friend, Hinomaru, a small flame with a life of its own, will accompany her on this journey and help her to accomplish her mission.
 
-### 🎮 Controls
+### 🎥 Live preview
+
+The following link redirects to a video that shows how the gameplay for the prototype looks like:
+
+- [Land of the Forgotten - Prototype Gameplay Preview](https://youtu.be/BYBBgxvk3L4)
+
+### 🎮 Playable demo
 
 The following controls have be defined for this game:
 
@@ -27,20 +38,13 @@ The following controls have be defined for this game:
 | Draw | 🖱️ | Left click |
 | Look / Rotate camera | 🖱️ | Move |
 
-### 🎥 Live preview
-
-The following link redirects to a video that shows how the gameplay for the prototype looks like:
-
-- [Land of the Forgotten - Prototype Gameplay Preview](https://youtu.be/BYBBgxvk3L4)
-
-No playable demo is available for the time being.
-
-## Development notes
-
-The presented prototype has been development by using C++ classes together with Blueprints. Most logic for all the in-game actors or components are written in C++, whereas their Blueprint counterparts are used to easily customize the actor properties and customize the location of their subcomponents in the viewport.
-
 > [!WARNING]  
-> This page is a work in progress.
+> No playable demo is available for the time being. Sorry for the inconvenience!
+
+## Prototype breakdown
+
+> [!IMPORTANT]  
+> This section is a work in progress.
 
 ### 🗺️ World overview
 
