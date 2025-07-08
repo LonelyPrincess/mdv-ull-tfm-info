@@ -48,7 +48,7 @@ The following controls have be defined for this game:
 
 In this section we'll briefly describe the main features of the developed prototype, which consists of a single playable level where the **goal is to save all 3 lost souls available on the map**.
 
-### 🚶‍♀️ Main character skills
+### 🎎 Main character
 
 During the game, players will be able to control Miko. Besides the basic movement actions (like walking or jumping), she also has the ability to cast magic when interacting when certain elements of the scene.
 
@@ -62,7 +62,7 @@ In the following video we can see this mechanic in action, with Miko using a fir
 
 ![Miko using a fire card](./images/drawing-mechanic-preview.gif)
 
-### 👾 Autonomous agent
+### 👾 Guide character
 
 Miko's companion, Hinomaru, is a second in-game character which is controlled via an AI controller. His behaviour is pretty simple, and he'll be mostly following Miko around all the time. He has, however, a passive skill which can aid the players when searching for lost souls to rescue.
 
@@ -78,20 +78,47 @@ This behaviour is illustrated in the attached picture:
 
 The game prototype consists of a single playable level where the **goal is to save all 3 lost souls available on the map**.
 
-The following screenshot illustrates the world map of said level, seen from above:
+The following screenshot shows the world map of said level, seen from above:
 
 ![Level map seen from above](./images/level-map-from-above-with-marked-areas.JPG)
 
-As we can appreciate here, the map contains 3 main areas, which are:
+As we can appreciate in the picture, the map contains 3 main areas, which are:
 
 1. The burned village
 2. The forest around the church
 3. The castle
 
-There's one lost soul to be found in each of these areas, as well as some collectible items all around the scene. The latter are completely optional: collectibles only grant extra points to the final score the user will get at the end, but it's not necessary to find any of them in order to complete the level.
+**There's one lost soul to be found in each of these areas**, as well as some collectible items all around the scene. The latter are completely optional: collectibles only grant extra points to the final score the user will get at the end, but it's not necessary to find any of them in order to complete the level.
 
-> [!IMPORTANT]
-> TODO: Add description of the level
+Although the order in which the player rescues the 3 souls in the level is irrelevant, in the upcoming paragraphs we'll include a walkthrough to quickly complete the game. This will mostly match what you can see in the gameplay video attached in the ["Live preview" section](#-live-preview) of this page.
+
+### Step 1: The burned village
+
+The lost soul hidden in the village it's pretty easy to find: it's located in the small house at the front of the well. All the player has to do to reach it is to open the door, and he'll see Minoru there, sitting on the bed.
+
+![Minoru's location](./images/minoru.JPG)
+
+### Step 2: The forest
+
+The second lost soul, Leila, is located in the graveyard at the right of the church, which lies in the forest.
+
+![Leila's location](./images/leila.JPG)
+
+There's no obstacles in the way, so she can be reached without interacting without any door or obstacle. However, with all the trees it's possible the player may not notice her at first, so Hinomaru' soul detection ability will be particularly helpful to spot her.
+
+### Step 3: The castle
+
+The last of the souls in the level, the king, can be found in the throne room inside the castle.
+
+![King's location](./images/king.JPG)
+
+Although the player starts the game right in front of the castle gates, those are initially locked. Opening this gate will require all the 4 torches across the level to be lit.
+
+After we rescue Leila, we can find one of these torches inside the church. Note that there's some plant blocking the entrance, but Miko can open the way by using a fire card to burn it.
+
+The remaining torches are all pretty close to the castle gates: two of them are right in front of the gates, while the other can be found by taking the small road leading to the right side of the castle.
+
+Once the player has succeeded in using fire in all the 4 angelic statues, the path will open and they'll be able to enter the castle and seek the king to complete the game.
 
 ## Additional project information
 
