@@ -48,10 +48,7 @@ The following controls have be defined for this game:
 
 In this section we'll briefly describe the main features of the developed prototype, which consists of a single playable level where the **goal is to save all 3 lost souls available on the map**.
 
-> [!IMPORTANT]
-> This section is a work in progress.
-
-### 🚶‍♀️ Main character
+### 🚶‍♀️ Main character skills
 
 During the game, players will be able to control Miko. Besides the basic movement actions (like walking or jumping), she also has the ability to cast magic when interacting when certain elements of the scene.
 
@@ -67,7 +64,15 @@ In the following video we can see this mechanic in action, with Miko using a fir
 
 ### 👾 Autonomous agent
 
-TODO: Describe agent behaviour
+Miko's companion, Hinomaru, is a second in-game character which is controlled via an AI controller. His behaviour is pretty simple, and he'll be mostly following Miko around all the time. He has, however, a passive skill which can aid the players when searching for lost souls to rescue.
+
+Equipped with a soul sight sense (using the AI perception system provided by the engine), Hinomaru will be able to perceive lost souls nearby.
+
+Normally he'd take the shape of a yellow flame, but once a lost soul enter his range of vision, he'll change to a redish color to let the player know that something's close.
+
+This behaviour is illustrated in the attached picture:
+
+![Preview of Hinomaru soul sensing](./images/soul-detection-preview.gif)
 
 ### 🗺️ Game level overview
 
@@ -85,7 +90,8 @@ As we can appreciate here, the map contains 3 main areas, which are:
 
 There's one lost soul to be found in each of these areas, as well as some collectible items all around the scene. The latter are completely optional: collectibles only grant extra points to the final score the user will get at the end, but it's not necessary to find any of them in order to complete the level.
 
-TODO: Add description of the level
+> [!IMPORTANT]
+> TODO: Add description of the level
 
 ## Additional project information
 
@@ -114,6 +120,9 @@ TODO: Add description of the level
 - [Unreal Marketplace: EF Edie Room](https://www.unrealengine.com/marketplace/en-US/product/ef-edie)
 
 ### 🔗 References
+
+> [!IMPORTANT]
+> This section is a work in progress.
 
 - [Unreal University - How to make A Paint System in Unreal Engine](https://www.youtube.com/watch?v=wIfovfaf01w)
 
