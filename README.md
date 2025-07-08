@@ -135,6 +135,7 @@ Once the player has succeeded in using fire in all the 4 angelic statues, the pa
 - [Freepik](https://www.freepik.com/)
 - [Mixkit](https://mixkit.co/)
 - [Pixabay](https://pixabay.com)
+- [Booth](https://booth.pm/en/browse/VRoid?in_stock=true&tags%5B%5D=Dresses&max_price=0)
 - [Dafont: Roman Antique](https://www.dafont.com/es/roman-antique.font)
 - [Infinity Blade: Grass Lands](https://www.unrealengine.com/marketplace/en-US/product/infinity-blade-plain-lands)
 - [Sketchfab: Throne](https://sketchfab.com/3d-models/throne-bfc6d2989bb0411d9572733d35c3e6d1)
@@ -154,24 +155,12 @@ Once the player has succeeded in using fire in all the 4 angelic statues, the pa
 - [The Seeker - Tiny Animations!? | Fixing small animations from Blender to Unreal Engine](https://www.youtube.com/watch?v=UA3rSNfn9NM)
 - [Lost Ferry - Using AI Perception component in C++](https://lostferry.com/2-50-using-ai-perception-component-unreal-c/)
 - [MDV ULL - Colisiones, triggers y raycasts](https://ull-master-videojuegos.github.io/desarrollo3d-apuntes/chapters/colisiones-triggers-y-raycasts.html#consultas-de-superposici%C3%B3n-overlap)
+- [Reddit - Problem with "Read Render Target Raw Pixel" Node](https://www.reddit.com/r/unrealengine/comments/xn6yqm/problem_with_read_render_target_raw_pixel_node/)
+- [Unreal Forums - How to solve "Warning Imported bone transform is different from original" error?](https://forums.unrealengine.com/t/how-to-solve-warning-imported-bone-transform-is-different-from-original-error/295577/15)
+- [Unreal Forums - Quick AI Perception Jumpstart (C++)](https://forums.unrealengine.com/t/quick-ai-perception-jumpstart-c/27452)
+- [Unreal Dev Community - Creating a Custom Sense for the AIPerception System](https://dev.epicgames.com/community/learning/tutorials/8Jp3/unreal-engine-creating-a-custom-sense-for-the-aiperception-system)
+- [Unreal Forums - Why does the Niagara child component not move with its parent?](https://forums.unrealengine.com/t/why-does-the-niagara-child-component-not-move-with-its-parent/443347)
 
-https://forums.unrealengine.com/t/i-cant-seem-to-get-the-perception-system-working-at-all/2015233
-https://www.reddit.com/r/blenderhelp/comments/vihke6/anyone_know_how_to_export_fbx_from_blender_with/
-https://forums.unrealengine.com/t/mixamo-animations-different-skeleton/477861/4
-https://www.reddit.com/r/unrealengine/comments/xn6yqm/problem_with_read_render_target_raw_pixel_node/
-https://forums.unrealengine.com/t/mixamo-animations-different-skeleton/477861
-https://forums.unrealengine.com/t/mesh-contains-root-bone-as-root-but-animation-doesnt-contain-the-root-track/27800/8
-https://forums.unrealengine.com/t/how-can-i-export-3d-modeling-from-blender-to-unreal-engine-with-texture/1257528/4
-https://www.reddit.com/r/blenderhelp/comments/vihke6/anyone_know_how_to_export_fbx_from_blender_with/
-https://www.youtube.com/watch?v=QPjmYSakoek
-https://www.reddit.com/r/unrealengine/comments/zzv6ej/imported_bone_transform_is_different_from/
-https://forums.unrealengine.com/t/blender-to-ue4-import-error-imported-bone-transform-is-different-from-original/138274/15
-https://forums.unrealengine.com/t/how-to-solve-warning-imported-bone-transform-is-different-from-original-error/295577/15
-https://www.reddit.com/r/unrealengine/comments/zzv6ej/imported_bone_transform_is_different_from/
-https://booth.pm/en/browse/VRoid?in_stock=true&tags%5B%5D=Dresses&max_price=0
-https://forums.unrealengine.com/t/quick-ai-perception-jumpstart-c/27452
-https://dev.epicgames.com/community/learning/tutorials/8Jp3/unreal-engine-creating-a-custom-sense-for-the-aiperception-system
-https://forums.unrealengine.com/t/why-does-the-niagara-child-component-not-move-with-its-parent/443347
 https://forums.unrealengine.com/t/c-set-niagara-variable-color-array/669649
 https://dev.epicgames.com/documentation/en-us/unreal-engine/metadata-specifiers-in-unreal-engine
 https://forums.unrealengine.com/t/draw-debug-lines-for-line-tracing/280307
@@ -207,4 +196,4 @@ https://forums.unrealengine.com/t/disable-enable-light-at-certain-places/139474/
 - [Unreal Forums - AI Controller not attaching to a spawned character in UE5](https://forums.unrealengine.com/t/ai-controller-not-attaching-to-a-spawned-character-in-ue-5/2161581/3)
 - [cgcircuitLLC - How to Remove Unused Assets in Unreal Engine](https://www.youtube.com/watch?v=2ZHEOSVs0OI)
 - [Unreal Forums - How do I fix bCastDynamicShadow problem?](https://forums.unrealengine.com/t/how-do-i-fix-bcastdynamicshadow-problem/355266/8)
-- [Texture Streaming Pool guide | Fix "over budget" issues & optimize your textures](https://dev.epicgames.com/community/learning/tutorials/Dl70/unreal-engine-texture-streaming-pool-guide-fix-over-budget-issues-optimize-your-textures)
+- [Unreal Dev Community - Texture Streaming Pool guide | Fix "over budget" issues & optimize your textures](https://dev.epicgames.com/community/learning/tutorials/Dl70/unreal-engine-texture-streaming-pool-guide-fix-over-budget-issues-optimize-your-textures)
