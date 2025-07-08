@@ -35,7 +35,10 @@ No playable demo is available for the time being.
 
 ## Development notes
 
-The presented prototype has been development by using C++ classes together with Blueprints. Most logic for all the in-game actors are written in C++, whereas their Blueprint counterparts are used to easily customize the actor properties and customize the location of their components in the viewport.
+The presented prototype has been development by using C++ classes together with Blueprints. Most logic for all the in-game actors or components are written in C++, whereas their Blueprint counterparts are used to easily customize the actor properties and customize the location of their subcomponents in the viewport.
+
+> [!WARNING]  
+> This page is a work in progress.
 
 ### 🗺️ World overview
 
