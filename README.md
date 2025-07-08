@@ -160,15 +160,14 @@ Once the player has succeeded in using fire in all the 4 angelic statues, the pa
 - [Unreal Forums - Quick AI Perception Jumpstart (C++)](https://forums.unrealengine.com/t/quick-ai-perception-jumpstart-c/27452)
 - [Unreal Dev Community - Creating a Custom Sense for the AIPerception System](https://dev.epicgames.com/community/learning/tutorials/8Jp3/unreal-engine-creating-a-custom-sense-for-the-aiperception-system)
 - [Unreal Forums - Why does the Niagara child component not move with its parent?](https://forums.unrealengine.com/t/why-does-the-niagara-child-component-not-move-with-its-parent/443347)
-
-https://forums.unrealengine.com/t/c-set-niagara-variable-color-array/669649
-https://dev.epicgames.com/documentation/en-us/unreal-engine/metadata-specifiers-in-unreal-engine
-https://forums.unrealengine.com/t/draw-debug-lines-for-line-tracing/280307
-https://forums.unrealengine.com/t/find-collision-uv-node-doesnt-work/370796/12
-https://www.reddit.com/r/unrealengine/comments/g64j69/comment/fwcmtdy/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
-https://forums.unrealengine.com/t/adding-nav-modifier-as-a-component-in-actor-and-via-add-component-by-class-leads-to-a-different-result/670965
-https://forums.unrealengine.com/t/spawning-an-actor-with-parameters/329151/6
-https://forums.unrealengine.com/t/how-can-i-output-the-value-of-an-enum-to-a-log/285097/10
+- [Unreal Forums - C++ Set Niagara Variable Color array](https://forums.unrealengine.com/t/c-set-niagara-variable-color-array/669649)
+- [Unreal Dev Community - Metadata specifiers in Unreal Engine](https://dev.epicgames.com/documentation/en-us/unreal-engine/metadata-specifiers-in-unreal-engine)
+- [Unreal Forums - Draw debug lines for line tracing](https://forums.unrealengine.com/t/draw-debug-lines-for-line-tracing/280307)
+- [Unreal Forums - Find collision UV node doesn't work](https://forums.unrealengine.com/t/find-collision-uv-node-doesnt-work/370796/12)
+- [Reddit - Destroy() does nothing to Actor](https://www.reddit.com/r/unrealengine/comments/g64j69/comment/fwcmtdy)
+- [Unreal Forums - Adding nav modifier as a component in actor and via add component by class leads to different results](https://forums.unrealengine.com/t/adding-nav-modifier-as-a-component-in-actor-and-via-add-component-by-class-leads-to-a-different-result/670965)
+- [Unreal Forums - Spawning an actor with parameters](https://forums.unrealengine.com/t/spawning-an-actor-with-parameters/329151/6)
+- [Unreal Forums - How can I output the value of an enum to a log?](https://forums.unrealengine.com/t/how-can-i-output-the-value-of-an-enum-to-a-log/285097/10)
 
 https://forums.unrealengine.com/t/find-specific-element-in-tarray/304089/16
 https://forums.unrealengine.com/t/how-do-i-play-level-sequence-in-c/771145/2
@@ -191,6 +190,7 @@ https://unreal-garden.com/docs/uproperty/#editanywhere
 https://dev.epicgames.com/documentation/en-us/unreal-engine/game-mode-and-game-state-in-unreal-engine?application_version=5.4
 https://forums.unrealengine.com/t/how-to-use-the-onaudiofinished-event-in-c/378623
 https://forums.unrealengine.com/t/disable-enable-light-at-certain-places/139474/2
+
 - [Unreal Engine Docs - Chaos Fields User Guide](https://dev.epicgames.com/documentation/en-us/unreal-engine/chaos-fields-user-guide-in-unreal-engine)
 - [Reddit - What is the different between a level instance and a packed level actor?](https://www.reddit.com/r/unrealengine/comments/xlj2ri/what_is_the_difference_between_a_level_instance/)
 - [Unreal Forums - AI Controller not attaching to a spawned character in UE5](https://forums.unrealengine.com/t/ai-controller-not-attaching-to-a-spawned-character-in-ue-5/2161581/3)
