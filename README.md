@@ -176,11 +176,10 @@ Once the player has succeeded in using fire in all the 4 angelic statues, the pa
 - [Unreal Dev Community - Intefaces in Unreal Engine](https://dev.epicgames.com/documentation/en-us/unreal-engine/interfaces-in-unreal-engine?application_version=5.4)
 - [Unreal Forums - How to bind a UText block](https://forums.unrealengine.com/t/how-to-bind-a-utextblock/334220/8)
 - [Unreal Garden - Controlling UMG Animations from C++](https://unreal-garden.com/tutorials/ui-animations-from-cpp/)
-
-https://www.reddit.com/r/unrealengine/comments/q9t3bm/when_to_use_gamestate_gamemode_and_playerstate/
-https://forums.unrealengine.com/t/get-widget-animation-in-c/359116/6
-https://forums.unrealengine.com/t/what-should-i-do-in-gamemode-gamestate-and-playerstate/93584/3
-https://forums.unrealengine.com/t/settext-ftext-asnumber-mycounter-using-fnumberformatoptions/247640/2
+- [Reddit - When to use GameState, GameMode and PlayerState?](https://www.reddit.com/r/unrealengine/comments/q9t3bm/when_to_use_gamestate_gamemode_and_playerstate/)
+- [Unreal Forums - Get widget animation in C++](https://forums.unrealengine.com/t/get-widget-animation-in-c/359116/6)
+- [Unreal Forums - What should I do in GameMode, GameState and PlayerState?](https://forums.unrealengine.com/t/what-should-i-do-in-gamemode-gamestate-and-playerstate/93584/3)
+- [Unreal Forums - SetText(FText::AsNumber(myCounter)); <---using FNumberFormatOptions?](https://forums.unrealengine.com/t/settext-ftext-asnumber-mycounter-using-fnumberformatoptions/247640/2)
 https://forums.unrealengine.com/t/spline-components-through-c/293817/2
 https://forums.unrealengine.com/t/howto-set-gameinstance-class-in-c/357414
 https://forums.unrealengine.com/t/no-elegant-representation-for-a-manager-class/1589871/4
