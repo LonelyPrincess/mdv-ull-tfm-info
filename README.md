@@ -4,7 +4,9 @@ This repository contains information on a prototype developed with Unreal Engine
 
 **The aim of this project has been the development of a prototype for a videogame that, as part of its core mechanics, includes the usage of the japanese language.** Writing specific japanese characters will be required to interact with certain elements of the level and make progress in the game. In this way, the game intends to aid people interested in learning the language to memorize these symbols in a more enjoyable way.
 
-### 📖 About the story
+## Game overview
+
+### 📖 Synopsis
 
 _"Land of the Forgotten"_ follows the adventures of Miko, a young priestess with supernatural powers who's able to see the ghosts of people who, for one reason or another, weren't able to pass on when they died and remain trapped between this realm and the other side. Those poor souls, lost and forgotten, are just awaiting for someone to call their name for the last time...
 
@@ -12,7 +14,7 @@ Miko has the ability to cast spells by writing in her magic cards, and she'll be
 
 Taking upon the mission of saving those poor souls, Miko travels around the world to find and save as many as she can. Her loyal friend, Hinomaru, a small flame with a life of its own, will accompany her on this journey and help her to accomplish her mission.
 
-### 🎮 Game controls
+### 🎮 Controls
 
 The following controls have be defined for this game:
 
@@ -25,9 +27,9 @@ The following controls have be defined for this game:
 | Draw | 🖱️ | Left click |
 | Look / Rotate camera | 🖱️ | Move |
 
-### 🎥 Game preview
+### 🎥 Live preview
 
-The following link redirects to a video that shows how the gameplay for the prototype looks like.
+The following link redirects to a video that shows how the gameplay for the prototype looks like:
 
 - [Land of the Forgotten - Prototype Gameplay Preview](https://youtu.be/BYBBgxvk3L4)
 
