@@ -25,6 +25,9 @@ The following link redirects to a video that shows how the gameplay for the prot
 
 - [Land of the Forgotten - Prototype Gameplay Preview](https://youtu.be/BYBBgxvk3L4)
 
+[![Land of the Forgotten - Prototype Gameplay Preview](https://img.youtube.com/vi/BYBBgxvk3L4/0.jpg)](https://www.youtube.com/watch?v=BYBBgxvk3L4)
+
+
 ### 🎮 Playable demo
 
 The following controls have be defined for this game:
