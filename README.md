@@ -76,9 +76,7 @@ This behaviour is illustrated in the attached picture:
 
 ### 🗺️ Game level overview
 
-The game prototype consists of a single playable level where the **goal is to save all 3 lost souls available on the map**.
-
-The following screenshot shows the world map of said level, seen from above:
+The game prototype consists of a single playable level where the **goal is to save all 3 lost souls available on the map**.The following screenshot offers a view of the world map of said level seen from above:
 
 ![Level map seen from above](./images/level-map-from-above-with-marked-areas.JPG)
 
@@ -148,31 +146,23 @@ Once the player has succeeded in using fire in all the 4 angelic statues, the pa
 
 ### 🔗 References
 
-> [!IMPORTANT]
-> This section is a work in progress.
-
 - [Unreal University - How to make A Paint System in Unreal Engine](https://www.youtube.com/watch?v=wIfovfaf01w)
-
-TODO: Add name to all relevant links and remove the rest
-
 - [Unreal Engine Docs - Level Stream With C++](https://docs.unrealengine.com/4.27/en-US/BuildingWorlds/LevelStreaming/HowTo/StreamWithCPP/)
 - [Epic Games Dev Community - Using Niagara in C++](https://dev.epicgames.com/community/learning/tutorials/Gx5j/using-niagara-in-c)
+- [Unreal Forums - How to make a image to follow cursor in click?](https://forums.unrealengine.com/t/how-to-make-a-image-to-follow-cursor-in-click/445867)
+- [Mathew Wadstein Tutorials - WTF Is? Convert Mouse Location to World Space in Unreal Engine 4](https://www.youtube.com/watch?v=b1_efR9hrT4)
+- [The Seeker - Tiny Animations!? | Fixing small animations from Blender to Unreal Engine](https://www.youtube.com/watch?v=UA3rSNfn9NM)
+- [Lost Ferry - Using AI Perception component in C++](https://lostferry.com/2-50-using-ai-perception-component-unreal-c/)
+- [MDV ULL - Colisiones, triggers y raycasts](https://ull-master-videojuegos.github.io/desarrollo3d-apuntes/chapters/colisiones-triggers-y-raycasts.html#consultas-de-superposici%C3%B3n-overlap)
 
-https://jisho.org/
 https://forums.unrealengine.com/t/i-cant-seem-to-get-the-perception-system-working-at-all/2015233
-https://www.youtube.com/watch?v=wIfovfaf01w
 https://www.reddit.com/r/blenderhelp/comments/vihke6/anyone_know_how_to_export_fbx_from_blender_with/
 https://forums.unrealengine.com/t/mixamo-animations-different-skeleton/477861/4
 https://www.reddit.com/r/unrealengine/comments/xn6yqm/problem_with_read_render_target_raw_pixel_node/
-https://www.youtube.com/watch?v=bb_yw5Cvs6k
-https://forums.unrealengine.com/t/drawing-to-render-target-vs-painting-pixels-directly-in-the-texture-and-saving-it/2106067/2
-https://forums.unrealengine.com/t/how-to-make-a-image-to-follow-cursor-in-click/445867
-https://www.youtube.com/watch?v=b1_efR9hrT4
 https://forums.unrealengine.com/t/mixamo-animations-different-skeleton/477861
 https://forums.unrealengine.com/t/mesh-contains-root-bone-as-root-but-animation-doesnt-contain-the-root-track/27800/8
 https://forums.unrealengine.com/t/how-can-i-export-3d-modeling-from-blender-to-unreal-engine-with-texture/1257528/4
 https://www.reddit.com/r/blenderhelp/comments/vihke6/anyone_know_how_to_export_fbx_from_blender_with/
-https://www.youtube.com/watch?v=UA3rSNfn9NM
 https://www.youtube.com/watch?v=QPjmYSakoek
 https://www.reddit.com/r/unrealengine/comments/zzv6ej/imported_bone_transform_is_different_from/
 https://forums.unrealengine.com/t/blender-to-ue4-import-error-imported-bone-transform-is-different-from-original/138274/15
@@ -180,7 +170,6 @@ https://forums.unrealengine.com/t/how-to-solve-warning-imported-bone-transform-i
 https://www.reddit.com/r/unrealengine/comments/zzv6ej/imported_bone_transform_is_different_from/
 https://booth.pm/en/browse/VRoid?in_stock=true&tags%5B%5D=Dresses&max_price=0
 https://forums.unrealengine.com/t/quick-ai-perception-jumpstart-c/27452
-https://lostferry.com/2-50-using-ai-perception-component-unreal-c/
 https://dev.epicgames.com/community/learning/tutorials/8Jp3/unreal-engine-creating-a-custom-sense-for-the-aiperception-system
 https://forums.unrealengine.com/t/why-does-the-niagara-child-component-not-move-with-its-parent/443347
 https://forums.unrealengine.com/t/c-set-niagara-variable-color-array/669649
@@ -191,7 +180,7 @@ https://www.reddit.com/r/unrealengine/comments/g64j69/comment/fwcmtdy/?utm_sourc
 https://forums.unrealengine.com/t/adding-nav-modifier-as-a-component-in-actor-and-via-add-component-by-class-leads-to-a-different-result/670965
 https://forums.unrealengine.com/t/spawning-an-actor-with-parameters/329151/6
 https://forums.unrealengine.com/t/how-can-i-output-the-value-of-an-enum-to-a-log/285097/10
-https://ull-master-videojuegos.github.io/desarrollo3d-apuntes/chapters/colisiones-triggers-y-raycasts.html#consultas-de-superposici%C3%B3n-overlap
+
 https://forums.unrealengine.com/t/find-specific-element-in-tarray/304089/16
 https://forums.unrealengine.com/t/how-do-i-play-level-sequence-in-c/771145/2
 https://dev.epicgames.com/documentation/en-us/unreal-engine/template-sequences-in-unreal-engine
@@ -213,9 +202,9 @@ https://unreal-garden.com/docs/uproperty/#editanywhere
 https://dev.epicgames.com/documentation/en-us/unreal-engine/game-mode-and-game-state-in-unreal-engine?application_version=5.4
 https://forums.unrealengine.com/t/how-to-use-the-onaudiofinished-event-in-c/378623
 https://forums.unrealengine.com/t/disable-enable-light-at-certain-places/139474/2
-https://dev.epicgames.com/documentation/en-us/unreal-engine/chaos-fields-user-guide-in-unreal-engine
-https://www.reddit.com/r/unrealengine/comments/xlj2ri/what_is_the_difference_between_a_level_instance/
-https://forums.unrealengine.com/t/ai-controller-not-attaching-to-a-spawned-character-in-ue-5/2161581/3
-https://www.youtube.com/watch?v=2ZHEOSVs0OI
-https://forums.unrealengine.com/t/how-do-i-fix-bcastdynamicshadow-problem/355266/8
-https://dev.epicgames.com/community/learning/tutorials/Dl70/unreal-engine-texture-streaming-pool-guide-fix-over-budget-issues-optimize-your-textures
+- [Unreal Engine Docs - Chaos Fields User Guide](https://dev.epicgames.com/documentation/en-us/unreal-engine/chaos-fields-user-guide-in-unreal-engine)
+- [Reddit - What is the different between a level instance and a packed level actor?](https://www.reddit.com/r/unrealengine/comments/xlj2ri/what_is_the_difference_between_a_level_instance/)
+- [Unreal Forums - AI Controller not attaching to a spawned character in UE5](https://forums.unrealengine.com/t/ai-controller-not-attaching-to-a-spawned-character-in-ue-5/2161581/3)
+- [cgcircuitLLC - How to Remove Unused Assets in Unreal Engine](https://www.youtube.com/watch?v=2ZHEOSVs0OI)
+- [Unreal Forums - How do I fix bCastDynamicShadow problem?](https://forums.unrealengine.com/t/how-do-i-fix-bcastdynamicshadow-problem/355266/8)
+- [Texture Streaming Pool guide | Fix "over budget" issues & optimize your textures](https://dev.epicgames.com/community/learning/tutorials/Dl70/unreal-engine-texture-streaming-pool-guide-fix-over-budget-issues-optimize-your-textures)
