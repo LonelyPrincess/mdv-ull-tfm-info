@@ -180,9 +180,10 @@ Once the player has succeeded in using fire in all the 4 angelic statues, the pa
 - [Unreal Forums - Get widget animation in C++](https://forums.unrealengine.com/t/get-widget-animation-in-c/359116/6)
 - [Unreal Forums - What should I do in GameMode, GameState and PlayerState?](https://forums.unrealengine.com/t/what-should-i-do-in-gamemode-gamestate-and-playerstate/93584/3)
 - [Unreal Forums - SetText(FText::AsNumber(myCounter)); <---using FNumberFormatOptions?](https://forums.unrealengine.com/t/settext-ftext-asnumber-mycounter-using-fnumberformatoptions/247640/2)
-https://forums.unrealengine.com/t/spline-components-through-c/293817/2
-https://forums.unrealengine.com/t/howto-set-gameinstance-class-in-c/357414
-https://forums.unrealengine.com/t/no-elegant-representation-for-a-manager-class/1589871/4
+- [Unreal Forums - Splie components through C++](https://forums.unrealengine.com/t/spline-components-through-c/293817/2)
+- [Unreal Forums - How to set game instance class in C++?](https://forums.unrealengine.com/t/howto-set-gameinstance-class-in-c/357414)
+- [Unreal Forums - No elegant representation for a manager class?](https://forums.unrealengine.com/t/no-elegant-representation-for-a-manager-class/1589871/4)
+
 https://www.reddit.com/r/unrealengine/comments/dhizeu/how_to_play_music_or_an_audio_cue_between_level/
 https://unreal-garden.com/tutorials/using-same-function-for-many-ubuttons/#b-bind-to-the-slate-button-widget
 https://unreal-garden.com/docs/uproperty/#editanywhere
