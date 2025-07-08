@@ -6,9 +6,6 @@ This repository contains information on a prototype developed with Unreal Engine
 
 The prototype was built using C++ classes together with Blueprints. Most logic for all the in-game actors or components are written in C++, whereas their Blueprint counterparts are used to easily customize the actor properties and assign a proper location for their subcomponents in the viewport.
 
-> [!NOTE]
-> TODO: Add link to the TFM document for more details.
-
 ## Game overview
 
 ### 📖 Synopsis
