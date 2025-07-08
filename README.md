@@ -168,15 +168,15 @@ Once the player has succeeded in using fire in all the 4 angelic statues, the pa
 - [Unreal Forums - Adding nav modifier as a component in actor and via add component by class leads to different results](https://forums.unrealengine.com/t/adding-nav-modifier-as-a-component-in-actor-and-via-add-component-by-class-leads-to-a-different-result/670965)
 - [Unreal Forums - Spawning an actor with parameters](https://forums.unrealengine.com/t/spawning-an-actor-with-parameters/329151/6)
 - [Unreal Forums - How can I output the value of an enum to a log?](https://forums.unrealengine.com/t/how-can-i-output-the-value-of-an-enum-to-a-log/285097/10)
+- [Unreal Forums - Find specific element in TArray](https://forums.unrealengine.com/t/find-specific-element-in-tarray/304089/16)
+- [Unreal Forums - How do I play level sequence in C++?](https://forums.unrealengine.com/t/how-do-i-play-level-sequence-in-c/771145/2)
+- [Unreal Dev Community - Template Sequences in Unreal Engine](https://dev.epicgames.com/documentation/en-us/unreal-engine/template-sequences-in-unreal-engine)
+- [Unreal API Docs - LevelSequence](https://dev.epicgames.com/documentation/en-us/unreal-engine/API/Runtime/LevelSequence)
+- [CGHOW - How to Use Niagara in Sequencer](https://www.youtube.com/watch?v=YSPymD_c5s0)
+- [Unreal Dev Community - Intefaces in Unreal Engine](https://dev.epicgames.com/documentation/en-us/unreal-engine/interfaces-in-unreal-engine?application_version=5.4)
+- [Unreal Forums - How to bind a UText block](https://forums.unrealengine.com/t/how-to-bind-a-utextblock/334220/8)
+- [Unreal Garden - Controlling UMG Animations from C++](https://unreal-garden.com/tutorials/ui-animations-from-cpp/)
 
-https://forums.unrealengine.com/t/find-specific-element-in-tarray/304089/16
-https://forums.unrealengine.com/t/how-do-i-play-level-sequence-in-c/771145/2
-https://dev.epicgames.com/documentation/en-us/unreal-engine/template-sequences-in-unreal-engine
-https://dev.epicgames.com/documentation/en-us/unreal-engine/API/Runtime/LevelSequence
-https://www.youtube.com/watch?v=YSPymD_c5s0
-https://dev.epicgames.com/documentation/en-us/unreal-engine/interfaces-in-unreal-engine?application_version=5.4
-https://forums.unrealengine.com/t/how-to-bind-a-utextblock/334220/8
-https://unreal-garden.com/tutorials/ui-animations-from-cpp/
 https://www.reddit.com/r/unrealengine/comments/q9t3bm/when_to_use_gamestate_gamemode_and_playerstate/
 https://forums.unrealengine.com/t/get-widget-animation-in-c/359116/6
 https://forums.unrealengine.com/t/what-should-i-do-in-gamemode-gamestate-and-playerstate/93584/3
