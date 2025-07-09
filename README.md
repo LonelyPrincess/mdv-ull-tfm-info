@@ -79,15 +79,15 @@ The game prototype consists of a single playable level where the **goal is to sa
 
 As we can appreciate in the picture, the map contains 3 main areas, which are:
 
-1. The burned village
-2. The forest around the church
+1. The village
+2. The forest
 3. The castle
 
 **There's one lost soul to be found in each of these areas**, as well as some collectible items all around the scene. The latter are completely optional: collectibles only grant extra points to the final score the user will get at the end, but it's not necessary to find any of them in order to complete the level.
 
 Although the order in which the player rescues the 3 souls in the level is irrelevant, in the upcoming paragraphs we'll include a walkthrough to quickly complete the game. This will mostly match what you can see in the gameplay video attached in the ["Live preview" section](#-live-preview) of this page.
 
-#### 🏡 Step 1: The burned village
+#### 🏡 Step 1: The village
 
 The lost soul hidden in the village it's pretty easy to find: it's located in the small house at the front of the well. All the player has to do to reach it is to open the door, and he'll see Minoru there, sitting on the bed.
 
